@@ -1,4 +1,4 @@
-# Проект 1. Анализ резюме на hh.ru
+# Проект 3. Booking.com
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Zelfreg/Project_3/tree/master/README.md#Описание-проекта)  
